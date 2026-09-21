@@ -135,3 +135,18 @@ footer {
 footer p {
     margin: 5px;
 }
+
+/* T03 Data Story Charts */
+.chart-container {
+    width: 90%;
+    max-width: 1000px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.chart-container img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
